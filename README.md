@@ -12,7 +12,7 @@ Så här blir resultatet: https://mas.to/@koldio/109808222410697067
 
 4) Skaffa ett konto på en Mastodonserver, och registrera en applikation där och spara ner nycklarna för applikationen
 
-5) Installera koden från detta repository: Det laddar upp bilden från förra steget, till ditt konto på en Mastodon-server, var fjärde timma.
+5) Installera koden från detta repository: https://github.com/jorgenponder/co2-data-publisher Det laddar upp bilden från förra steget, till ditt konto på en Mastodon-server, var fjärde timma. Eller det gör det om du lägger det i ett cron-jobb som kör det var fjärde timma.
 
 Efter detta så ska dina CO2-data publiceras på ett Mastodon-konto var fjärde timma.
 
