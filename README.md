@@ -11,7 +11,7 @@ Finns här att köpa t ex: https://www.pricerunner.se/pl/345-5201699/Elverktyg/T
 
 2) Skaffa ett konto på en Mastodonserver, och registrera en applikation där och spara ner nycklarna för applikationen. En möjlighet är https://botsin.space som ska vara bot-vänlig, men det är en liten fördröjning innan man blir godkänd. Läs reglerna för den server du reggar konto på.
 
-3) Installera koden från detta repository: https://github.com/jorgenponder/tfa-airco2ntrol-mini Det är en modifierad version av https://github.com/MathieuSchopfer/tfa-airco2ntrol-mini till att ge 24 timmars diagram, samt spara diagrammet till disk istället för att visa det i ett fönster. Det laddar upp bilden från steg 4, till ditt konto på en Mastodon-server, var fjärde timma. Eller det gör det om du lägger publish.py i ett cron-jobb som kör det var fjärde timma.
+3) Installera koden från detta repository: https://github.com/jorgenponder/tfa-airco2ntrol-mini Det är en modifierad version av https://github.com/MathieuSchopfer/tfa-airco2ntrol-mini till att ge 24 timmars diagram, samt spara diagrammet till disk istället för att visa det i ett fönster. Det laddar också upp bilden till ditt konto på en Mastodon-server, var fjärde timma. Eller det gör det om du lägger publish.py i ett cron-jobb som kör var fjärde timma.
 
 4) Plugga in mätaren i datorn med en USB-kabel.
 
