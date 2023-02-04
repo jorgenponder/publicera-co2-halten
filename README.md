@@ -4,7 +4,7 @@ Så här kan man göra för att publicera koldioxidhalten i sina lokaler. Fem st
 
 Så här blir resultatet: https://mas.to/@koldio/109808222410697067
 
-1) Skaffa en TFA Dostmann CO2-mätare, kostar runt 800 kronor. Denna mätare är bättre än nästan allt annat i prisklassen, då den inte behöver justeras (kalibreras) en gång om dygnet. Vilket gör att den även funkar bra i lokaler som inte vädras ut helt varje dygn.
+1) Skaffa en TFA Dostmann CO2-mätare, kostar runt 800 kronor. Denna mätare är bättre än nästan allt annat i prisklassen, då den inte behöver justeras (kalibreras) en gång om dygnet. Vilket gör att den även funkar bra i lokaler som inte vädras ut helt varje dygn. https://www.tfa-dostmann.de/en/product/co2-monitor-airco2ntrol-mini-31-5006/
 
 2) Plugga in mätaren i en dator med en USB-kabel. Jag har använt Linux.
 
