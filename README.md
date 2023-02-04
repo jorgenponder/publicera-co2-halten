@@ -1,5 +1,7 @@
 # publicera-co2-halten
 
+Obs! Detta är alfa-kod. Och alfa-instruktioner.
+
 Så här kan man göra för att publicera koldioxidhalten i sina lokaler. Fem steg som behöver göras en gång, inga löpande kostnader. Tanken är att ge ut en USB eller minneskort och det bara funkar, men just nu måste man vara bekväm med att installera python-kod på en dator.
 
 Så här blir resultatet: https://mas.to/@koldio/109808222410697067
