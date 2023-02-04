@@ -8,7 +8,7 @@ Så här blir resultatet: https://mas.to/@koldio/109808222410697067
 
 2) Plugga in mätaren i en dator med en USB-kabel. Jag har använt Linux.
 
-3) Installera koden från detta repository: Det är en modifierad version av xx till att ge 24 timmars diagram, samt spara diagrammet till disk istället för att visa det i ett fönster
+3) Installera koden från detta repository: https://github.com/jorgenponder/tfa-airco2ntrol-mini Det är en modifierad version av https://github.com/MathieuSchopfer/tfa-airco2ntrol-mini till att ge 24 timmars diagram, samt spara diagrammet till disk istället för att visa det i ett fönster
 
 4) Skaffa ett konto på en Mastodonserver, och registrera en applikation där och spara ner nycklarna för applikationen
 
