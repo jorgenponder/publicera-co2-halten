@@ -1,8 +1,8 @@
 # publicera-co2-halten
 
-Obs, detta är inte klart riktigt än, men så här ska det se ut:
+Så här kan man göra för att publicera koldioxidhalten i sina lokaler. Fem steg som behöver göras en gång, inga löpande kostnader. Tanken är att ge ut en USB eller minneskort och det bara funkar, men just nu måste man vara bekväm med att installera python-kod på en dator.
 
-Så här kan man göra för att publicera koldioxidhalten i sina lokaler, i fem steg som behöver göras en gång, inga löpande kostnader. Tanken är att ge ut en USB eller minneskort och det bara funkar, men just nu måste man vara bekväm med att installera python-kod på en dator.
+Så här blir resultatet: https://mas.to/@koldio/109808222410697067
 
 1) Skaffa en TFA Dostmann CO2-mätare, kostar runt 800 kronor. Denna mätare är bättre än nästan allt annat i prisklassen, då den inte behöver justeras (kalibreras) en gång om dygnet. Vilket gör att den även funkar bra i lokaler som inte vädras ut helt varje dygn.
 
